@@ -1,0 +1,37 @@
+# Maven / Build
+
+target/
+*.class
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE - NetBeans / IntelliJ / VS Code
+
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+.idea/
+*.iml
+
+.vscode/
+
+# Temporary files
+
+*.tmp
+*.swp
+*~
+
+# Environment files
+
+.env
