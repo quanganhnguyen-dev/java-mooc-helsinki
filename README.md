@@ -12,7 +12,7 @@ All solutions are implemented independently, with a focus on writing clean, read
 
 ## Progress
 
-**Part 1 completed | Currently working on Part 2**
+**Part 2 completed | Currently working on Part 3**
 
 ---
 
